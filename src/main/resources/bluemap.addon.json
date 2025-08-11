@@ -1,0 +1,4 @@
+{
+    "id": "quartzdev",
+    "entrypoint": "gg.quartzdev.mc.qbluemaps3.QBlueMapS3"
+  }
